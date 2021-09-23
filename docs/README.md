@@ -16,4 +16,4 @@ You may find more about the Programming Languages research group at Bristol [her
 
 Links:
 [Teams](https://teams.microsoft.com/l/team/19%3aYLl8cZ1LVsO2bu8XXjE8QTc7WUPHgPZGzPmXUGdID-k1%40thread.tacv2/conversations?groupId=68f87e2e-dfc5-48c2-b267-49f1769e1c29&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)
-| [Blackboard](TODO)
+| [Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247635_1&content_id=_5940717_1)
