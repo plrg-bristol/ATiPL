@@ -6,7 +6,11 @@
 
 Advanced Topics in Programming Languages is a fourth year optional unit at the University of Bristol. We will give you a grounding in the field of Programming Languages, along with an insight into what it is like to be Programming Languages researcher.
 
-The unit will be based on Robert Harper's book _Practical Foundations for Programming Languages]. An [electronic copy](https://bris.on.worldcat.org/v2/oclc/958542871) may be obtained through the University of Bristol's library.
+The unit will be based on Robert Harper's book [_Practical Foundations for
+Programming Languages_](https://www.cs.cmu.edu/~rwh/pfpl/) (Cambridge
+University Press, 2nd edition, 2016). An [electronic
+copy](https://bris.on.worldcat.org/v2/oclc/958542871) may be obtained through
+the University of Bristol library.
 
 You may find more about the Programming Languages research group at Bristol [here](https://bristolpl.github.io/).
 
