@@ -20,16 +20,12 @@ unavailable, only the virtual version will take place.)
 **WHEN:** Fridays 11-12pm
 
 **WHO:** Our TAs, Eddie and Sam, will be running the problem classes and
-marking your work. They will alternate which of them runs which session
-(physical or virtual), but will always mark the same people's sheets.
+marking your work. Sam will run the in-person sessions, and Eddie will do the virtual ones.
 
 **HOW:**
 
-You will have the opportunity to get your answers marked by a TA. At the
-start of the year, you will be split into two groups: "Team Sam", whose
-sheets will be emailed to and marked by Sam; and "Team Eddie", whose sheets
-will be emailed to and marked by Eddie. To get your sheet marked, email it to
-your assigned TA by **5pm on Monday**. They will then mark it by the Friday
+You will have the opportunity to get your answers marked by a TA.
+To do this, email your answers as a PDF with the filename of your name and email subject if "APL sheet n" (where n is the sheet numnber) to **Sam** by **5pm on Monday**. Eddie and Sam will then work together to mark them by the Friday
 problem class where it will be returned to you via the [Files facility on
 Teams](https://teams.microsoft.com/_#/school/files/General?groupId=68f87e2e-dfc5-48c2-b267-49f1769e1c29&threadId=19%3AYLl8cZ1LVsO2bu8XXjE8QTc7WUPHgPZGzPmXUGdID-k1%40thread.tacv2&ctx=channel&context=Worksheet%2520Return&rootfolder=%252Fteams%252FUnitTeams-COMSM0066-2021-22-TB-1-A%252FShared%2520Documents%252FGeneral%252FWorksheet%2520Return).
 
