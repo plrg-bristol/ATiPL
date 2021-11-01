@@ -4,8 +4,8 @@
 
 | Week | Day      | Topic                     | Resources                        |
 | ---- | -------- | -------------------       | -------------------------------- |
-| 1    | Monday   | Induction                 | [pdf](lectures/lecture01.pdf)    |
-|      | Tuesday  | Induction II              | [pdf](lectures/lecture02.pdf)    |
+| 1    | Monday   | Judgements                | [pdf](lectures/lecture01.pdf)    |
+|      | Tuesday  | Induction                 | [pdf](lectures/lecture02.pdf)    |
 | 2    | Monday   | Statics                   | [pdf](lectures/lecture03.pdf)    |
 |      | Tuesday  | Statics: Structural Rules | [pdf](lectures/lecture04.pdf)    |
 | 3    | Monday   | Dynamics                  | [pdf](lectures/lecture05.pdf)    |
