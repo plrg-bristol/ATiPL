@@ -20,7 +20,7 @@ You may find more about the Programming Languages research group at Bristol [her
 
 ### Lecturers
 
-| [![Meng Wang](Images/Staff/Meng.png)](https://mengwangoxf.github.io/) | [![Alex Kavvos](Images/Staff/Alex.jpg)](https://www.lambdabetaeta.eu/) |
+| [![face](Images/Staff/Meng.png)](https://mengwangoxf.github.io/) | [![face](Images/Staff/Alex.jpg)](https://www.lambdabetaeta.eu/) |
 | :-------------------------------:   | :------------------------------------:|
 | Meng Wang                           | Alex Kavvos                           |
 
