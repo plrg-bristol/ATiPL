@@ -26,7 +26,7 @@ You may find more about the Programming Languages research group at Bristol [her
 
 ### TAs
 
-| [![face](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | [![Eddie Jones](Images/Staff/Eddie.png#face)](https://ec-jones.github.io/)             |
+| [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | [![Eddie Jones](Images/Staff/Eddie.png#face)](https://ec-jones.github.io/)             |
 | :------------------------:   | :-------------------------------------------:|
 | Sam Frohlich                 | Eddie Jones                                  |
 
