@@ -2,7 +2,7 @@
 
 ![Unit Banner: a Lambda in front of a matrix style background, with the unit name.](Images/lam.jpg)
 
-[Staff](Staff.md) | [Assessment](Assessment.md) | [Structure](Structure.md) | [Problem Classes](ProblemClasses.md) | [Schedule](Schedule.md) | [Content](Content.md)
+[Staff](Staff.md) | [Structure](Structure.md) | [Problem Classes](ProblemClasses.md) | [Schedule](Schedule.md) | [Content](Content.md)
 
 Advanced Topics in Programming Languages is a fourth year optional unit at the University of Bristol. We will give you a grounding in the field of Programming Languages, along with an insight into what it is like to be Programming Languages researcher.
 
