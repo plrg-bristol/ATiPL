@@ -20,13 +20,13 @@ You may find more about the Programming Languages research group at Bristol [her
 
 ### Lecturers
 
-| [![face](Images/Staff/Meng.png)](https://mengwangoxf.github.io/) | [![face](Images/Staff/Alex.jpg)](https://www.lambdabetaeta.eu/) |
+| [![Meng Wang](Images/Staff/Meng.png#face)](https://mengwangoxf.github.io/) | [![Alex Kavvos](Images/Staff/Alex.jpg#face)](https://www.lambdabetaeta.eu/) |
 | :-------------------------------:   | :------------------------------------:|
 | Meng Wang                           | Alex Kavvos                           |
 
 ### TAs
 
-| [![face](Images/Staff/Sam.jpg)](https://samfrohlich.github.io/) | [![face](Images/Staff/Eddie.png)](https://ec-jones.github.io/)             |
+| [![face](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | [![Eddie Jones](Images/Staff/Eddie.png#face)](https://ec-jones.github.io/)             |
 | :------------------------:   | :-------------------------------------------:|
 | Sam                          | Eddie                                        |
 
