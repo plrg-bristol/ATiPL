@@ -11,16 +11,21 @@
 
   <body>
     <header>
-      <h1>{{ site.code }}</h1>
-      <h2>{{ site.name }}</h2>
+      <div>
+        <h1>{{ site.code }}</h1>
+        <h2>{{ site.name }}</h2>
+      </div>
+      
+      <div id="headerBanner">
       {% if site.banner %}
         <img src="{{ site.banner.url }}" id="site-banner" class="img-responsive" alt="{{ site.banner.desc }}">
       {% endif %}
+      </div>
     </header>
     
     <nav class="navbar">
       <div class="navbar-nav">
-        {% for item in site.data.pages %}
+        {% for item in site.data.pages.pages %}
         <a class="nav-item nav-link" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
       </div>
