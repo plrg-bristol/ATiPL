@@ -29,13 +29,13 @@ header {
 header #headerLogo {
     display: grid;
     grid-template-rows: 3fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 1em;
     margin: 1.5em;
 }
 
 header > #headerLogo > img {
     margin: 0 auto;
-    height: 160px;
+    height: 150px;
 }
 
 header #headerUnitCode {
