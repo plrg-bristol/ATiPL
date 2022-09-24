@@ -35,9 +35,16 @@ header #headerUnitCode {
 }
 
 header #headerBanner {
+    display: inline-block;
+}
+
+header #banner {
     margin: 0 auto;
     width: 735px;
+    vertical-align: middle;
 }
+
+
 
 .navbar, .navbar-nav {
     flex-direction: column;
