@@ -43,8 +43,10 @@ header #headerUnitCode {
 }
 
 header > #headerBanner {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
 }
 
 header > #headerBanner > img {
