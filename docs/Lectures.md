@@ -2,17 +2,17 @@
 
 | Week | Day      | Topic                     | Resources                        |
 | ---- | -------- | -------------------       | -------------------------------- |
-| 1    | Monday   | Judgements                | [pdf](lectures/lecture01.pdf)    |
-|      | Tuesday  | Induction                 | [pdf](lectures/lecture02.pdf)    |
-| 2    | Monday   | Statics                   | |
-|      | Tuesday  | Statics: Structural Rules | |
-| 3    | Monday   | Dynamics                  | |
-|      | Tuesday  | Type safety               | |
-| 4    | Monday   | Sums and products         | |
-|      | Tuesday  | Functions                 | |
-| 5    | Monday   | Recursion                 | |
-|      | Tuesday  | Recursion II              | |
-| 6    | Monday   | CBN, CBV, effects         | |
-|      | Tuesday  | Modernised Algol I        | |
-| 7    | Monday   | Modernised Algol II       | |
-|      | Tuesday  | ?                         | |
+| 1    | Tuesday   | Judgements                | [pdf](lectures/lecture01.pdf)    |
+|      | Wednesday  | Induction                 | [pdf](lectures/lecture02.pdf)    |
+| 2    | Tuesday   | Statics                   | |
+|      | Wednesday  | Statics: Structural Rules | |
+| 3    | Tuesday   | Dynamics                  | |
+|      | Wednesday  | Type safety               | |
+| 4    | Tuesday   | Sums and products         | |
+|      | Wednesday  | Functions                 | |
+| 5    | Tuesday   | Recursion                 | |
+|      | Wednesday  | Recursion II              | |
+| 6    | Tuesday   | CBN, CBV, effects         | |
+|      | Wednesday  | Modernised Algol I        | |
+| 7    | Tuesday   | Modernised Algol II       | |
+|      | Wednesday  | ?                         | |
