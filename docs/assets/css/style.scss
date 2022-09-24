@@ -53,15 +53,9 @@ header > #headerBanner > img {
     margin: 2em;
 }
 
-@media (max-width: 480px) {
-    header > #headerBanner > img {
-        display: none;
-    }
-}
-
 @media (max-width: 768px) {
     header > #headerBanner > img {
-        height: 100px;
+        display: none;
     }
 }
 
@@ -69,7 +63,7 @@ header > #headerBanner > img {
 
 .nav-button {
     text-align: center;
-    padding: 0.2em;
+    padding: 0.5em;
     margin: 2em;
     background: black;
     color: #ffffff;
