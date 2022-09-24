@@ -26,9 +26,7 @@
     <nav class="navbar navbar-light bg-light">
       <ul class="navbar-nav mr-auto">
         {% for item in site.data.pages.pages %}
-        <li class="nav-item active">
-          <a class="btn btn-dark" href="{{ item.url }}">{{ item.title }}</a>
-        </li>
+        <a class="btn btn-dark" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
       </ul>
     </nav>
