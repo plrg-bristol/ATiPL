@@ -13,14 +13,19 @@
 
 header {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 2fr 4fr;
     background: #002f5f;
     color: #ffffff;
     width: 100%;
 }
 
-header > img { 
-    width: 50%;
+header #headerUnitCode {
+    display: grid;
+    grid-template-rows: 2;
+}
+
+header #headerBanner {
+    width: 0 auto;
 }
 
 img[src*="#face"] {
