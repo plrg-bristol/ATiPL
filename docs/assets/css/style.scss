@@ -42,8 +42,14 @@ header #headerUnitCode {
     margin: 0 auto;
 }
 
+header > #headerBanner {
+    display: grid;
+    grid-template-columns: 1;
+}
+
 header > #headerBanner > img {
-    width: 100%;
+    width: 90%;
+    margin: 2em;
 }
 
 // Other stuff
