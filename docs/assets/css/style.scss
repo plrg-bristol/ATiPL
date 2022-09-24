@@ -53,9 +53,15 @@ header > #headerBanner > img {
     margin: 2em auto;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 480px) {
     header > #headerBanner > img {
         display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    header > #headerBanner > img {
+        height: 100px;
     }
 }
 
