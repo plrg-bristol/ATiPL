@@ -14,18 +14,16 @@
       <h1>{{ site.code }}</h1>
       <h2>{{ site.name }}</h2>
       {% if site.banner %}
-        <div class="img-responsive">
-          <img src="{{ site.banner.url }}" alt="{{ site.banner.desc }}">
-        </div>
+        <img src="{{ site.banner.url }}" id="site-banner" class="img-responsive" alt="{{ site.banner.desc }}">
       {% endif %}
     </header>
     
-    <nav>
-      <ul>
+    <nav class="navbar">
+      <div class="navbar-nav">
         {% for item in site.data.samplelist.pages %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <a class="nav-item nav-link" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
-      </ul>
+      </div>
     </nav>
   
     <div class="container-lg px-3 my-5 markdown-body">
