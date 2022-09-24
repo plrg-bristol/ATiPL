@@ -13,6 +13,9 @@
     <header>
       <h1>{{ site.code }}</h1>
       <h2>{{ site.name }}</h2>
+      {% if site.banner %}
+        <img src="{{ site.banner.url }}" alt="{{ site.banner.desc }}">
+      {% endif %}
     </header>
     
     <nav>

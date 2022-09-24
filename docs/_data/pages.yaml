@@ -1,0 +1,16 @@
+pages:
+
+- title: Home
+  url: index.html
+
+- title: Lectures
+  url: lectures.html
+
+- title: Problem Classes
+  url: probclasses.html
+    
+- title: Reading list
+  url: https://rl.talis.com/3/bristol/lists/E87747F9-4A77-5DF1-E3C2-3D8D98264885.html?lang=en
+
+- title: Catalogue page
+  url: https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0067
