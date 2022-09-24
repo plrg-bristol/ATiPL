@@ -16,7 +16,11 @@
     </header>
     
     <nav>
-      
+      <ul>
+        {% for item in site.data.samplelist.pages %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
     </nav>
   
     <div class="container-lg px-3 my-5 markdown-body">
