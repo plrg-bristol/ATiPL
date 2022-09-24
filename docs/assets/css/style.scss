@@ -45,7 +45,7 @@ header #headerUnitCode {
 
 header > #headerBanner {
     display: grid;
-    grid-template-columns: 980px;
+    grid-template-columns: 1fr;
 }
 
 header > #headerBanner > img {
