@@ -28,6 +28,10 @@ header #headerBanner {
     width: 0 auto;
 }
 
+.navbar, .navbar-nav {
+    flex-direction: column;
+}
+
 img[src*="#face"] {
     width: 350px;
 }
