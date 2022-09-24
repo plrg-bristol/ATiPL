@@ -24,13 +24,11 @@
     </header>
     
     <nav>
-      <ul class="nav nav-pills flex-column">
-        {% for item in site.data.pages.pages %}
-        <li class="nav-item">
-          <a class="nav-link active" href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
+      {% for item in site.data.pages.pages %}
+      <div class="nav-button">
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </div>
+      {% endfor %}
     </nav>
   
     <div class="container-lg my-5 markdown-body">

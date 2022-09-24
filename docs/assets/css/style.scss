@@ -60,6 +60,20 @@ header > #headerBanner > img {
     }
 }
 
+// Nav
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+}
+
+nav > nav-button {
+    background: black;
+    color: #ffffff;
+    border: 1px;
+}
+
 // Other stuff
 
 img[src*="#face"] {
