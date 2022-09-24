@@ -1,6 +1,6 @@
 # Advanced Topics in Programming Languages 2021/22
 
-![Unit Banner: a Lambda in front of a matrix style background, with the unit name.](Images/lam.jpg)
+![Unit banner: a lambda in the style of Norton Commander](Images/ATiPL-nc-logo.png)
 
 [Structure](Structure.md) | [Problem Classes](ProblemClasses.md)
 
