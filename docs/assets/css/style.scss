@@ -29,7 +29,7 @@ header {
 
 header #headerLogo {
     display: grid;
-    grid-template-rows: 2;
+    grid-template-rows: 3fr 1fr;
     grid-gap: 20px;
     margin: 1.5em;
 }
