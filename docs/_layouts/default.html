@@ -24,9 +24,13 @@
     </header>
     
     <nav class="navbar navbar-light bg-light">
+      <ul class="navbar-nav mr-auto">
         {% for item in site.data.pages.pages %}
-        <a class="nav-item nav-link" href="{{ item.url }}">{{ item.title }}</a>
+        <li class="nav-item active">
+          <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+        </li>
         {% endfor %}
+      </ul>
     </nav>
   
     <div class="container-lg px-3 my-5 markdown-body">
