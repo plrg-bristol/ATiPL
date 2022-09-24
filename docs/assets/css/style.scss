@@ -46,8 +46,9 @@ header #banner {
 
 
 
-.navbar, .navbar-nav {
+.navbar, .navbar-nav, .container-fluid {
     flex-direction: column;
+    align-items: flex-start;
 }
 
 img[src*="#face"] {
