@@ -1,7 +1,5 @@
 # Advanced Topics in Programming Languages 2021/22
 
-[Structure](Structure.md) | [Problem Classes](ProblemClasses.md)
-
 Advanced Topics in Programming Languages is a fourth year optional unit at the University of Bristol. We will give you a grounding in the field of Programming Languages, along with an insight into what it is like to be Programming Languages researcher.
 
 The unit will be based on Robert Harper's book [_Practical Foundations for

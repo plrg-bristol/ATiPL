@@ -1,5 +1,3 @@
-[[Back]](README.md)
-
 ## Structure
 
 | Week | Day      | Topic                     | Resources                        |
