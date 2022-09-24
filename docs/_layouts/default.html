@@ -26,12 +26,14 @@
     <nav class="navbar navbar-light bg-light">
       <ul class="navbar-nav mr-auto">
         {% for item in site.data.pages.pages %}
-        <a class="btn btn-dark" href="{{ item.url }}">{{ item.title }}</a>
+        <li class="nav-item active">
+          <a class="nav-link btn btn-dark" href="{{ item.url }}">{{ item.title }}</a>
+        </li>
         {% endfor %}
       </ul>
     </nav>
   
-    <div class="container-md my-5 markdown-body">
+    <div class="container-lg my-5 markdown-body">
       {{ content }}
     </div>
 
