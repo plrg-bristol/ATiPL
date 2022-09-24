@@ -25,9 +25,11 @@
     
     <nav>
       {% for item in site.data.pages.pages %}
-      <div class="nav-button">
-        <a href="{{ item.url }}">{{ item.title }}</a>
-      </div>
+      <a href="{{ item.url }}">
+        <div class="nav-button">
+          {{ item.title }}
+        </div>
+      </a>
       {% endfor %}
     </nav>
   
