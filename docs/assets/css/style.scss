@@ -47,6 +47,7 @@ header > #headerBanner {
     justify-content: center;
     align-items: center;
     height: 200px;
+    margin: 3em;
 }
 
 header > #headerBanner > img {
@@ -69,7 +70,7 @@ header > #headerBanner > img {
     margin: 3em;
     background: black;
     color: #ffffff;
-    border: 0.1em ridge rgb(131, 18, 18);
+    border: 0.5em ridge rgb(131, 18, 18);
 }
 
 // Other stuff
