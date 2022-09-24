@@ -10,7 +10,15 @@ the University of Bristol library.
 
 You may find more about the Programming Languages research group at Bristol [here](https://bristolpl.github.io/).
 
+## Schedule
 
+| What          | When           | Where                                     |
+|---------------|----------------|-------------------------------------------|
+| Lecture 1     | Tue  11am-noon | Queen's Building 1.69 (weeks 1-5)         |
+|               |                | Chemistry building WS402 (weeks 7-8)      |
+| Lecture 2     | Tues noon-1pm  | Queen's Building 1.69                     |
+|               |                | Chemistry building WS402 (weeks 7-8)      |
+| Problem Class | Thurs 9-10am   | Queen's Building 1.69                     |
 
 ## Staff
 
@@ -25,14 +33,3 @@ You may find more about the Programming Languages research group at Bristol [her
 | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | [![Eddie Jones](Images/Staff/Eddie.png#face)](https://ec-jones.github.io/)             |
 | :------------------------:   | :-------------------------------------------:|
 | Sam Frohlich                 | Eddie Jones                                  |
-
-
-## Schedule
-
-| What          | When           | Where                                     |
-|---------------|----------------|-------------------------------------------|
-| Lecture 1     | Tue  11am-noon | Queen's Building 1.69 (weeks 1-5)         |
-|               |                | Chemistry building WS402 (weeks 7-8)      |
-| Lecture 2     | Tues noon-1pm  | Queen's Building 1.69                     |
-|               |                | Chemistry building WS402 (weeks 7-8)      |
-| Problem Class | Thurs 9-10am   | Queen's Building 1.69                     |
