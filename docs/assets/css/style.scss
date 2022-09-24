@@ -16,6 +16,8 @@ body {
     grid-template-columns: 1fr 3fr;
 }
 
+// Header CSS
+
 header {
     grid-column: span 2;
     display: grid;
@@ -39,6 +41,12 @@ header > #headerLogo > img {
 header #headerUnitCode {
     margin: 0 auto;
 }
+
+header > #headerBanner > img {
+    width: 75%;
+}
+
+// Other stuff
 
 img[src*="#face"] {
     width: 350px;
