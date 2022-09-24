@@ -56,7 +56,7 @@ header > #headerBanner > img {
 }
 
 @media (max-width: 768px) {
-    header > #headerBanner > img {
+    header > #headerBanner {
         display: none;
     }
 }
