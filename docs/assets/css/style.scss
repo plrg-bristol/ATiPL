@@ -19,15 +19,19 @@ header {
     width: 100%;
 }
 
-header #headerUnitCode {
+header #headerLogo {
     display: grid;
     grid-template-rows: 2;
     margin: 1em;
 }
 
-header #headerBristolLogo {
+header #headerBristol {
     margin: 0 auto;
     width: 120px;
+}
+
+header #headerUnitCode {
+    margin: 0 auto;
 }
 
 header #headerBanner {
