@@ -22,10 +22,12 @@ header {
 header #headerUnitCode {
     display: grid;
     grid-template-rows: 2;
+    margin: 1em;
 }
 
 header #headerBanner {
-    width: 0 auto;
+    margin: 1em;
+    width: 90%
 }
 
 .navbar, .navbar-nav {
