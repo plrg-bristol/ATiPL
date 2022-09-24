@@ -11,7 +11,13 @@
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
+body {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
 header {
+    grid-column: span 2;
     display: grid;
     grid-template-columns: 1fr 3fr;
     background: black;
@@ -33,7 +39,6 @@ header > #headerLogo > img {
 header #headerUnitCode {
     margin: 0 auto;
 }
-
 
 img[src*="#face"] {
     width: 350px;
