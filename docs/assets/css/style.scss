@@ -25,7 +25,7 @@ header #headerLogo {
     margin: 1em;
 }
 
-header #headerBristol {
+header > #headerLogo > img {
     margin: 0 auto;
     width: 120px;
 }
@@ -34,17 +34,11 @@ header #headerUnitCode {
     margin: 0 auto;
 }
 
-header #headerBanner {
-    display: inline-block;
+header > #headerBanner > img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
-
-header #banner {
-    margin: 0 auto;
-    width: 735px;
-    vertical-align: middle;
-}
-
-
 
 .navbar, .navbar-nav, .container-fluid {
     flex-direction: column;
