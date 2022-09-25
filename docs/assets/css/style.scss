@@ -52,21 +52,16 @@ header > #headerBannerBig {
     max-width: 980px;
 }
 
+header > #headerBannerSmall {
+    display: none;
+}
+
 @media (max-width: 1000px) {
     header > #headerBannerSmall {
         display: block;
     }
     header > #headerBannerBig {
         display: none;
-    }
-}
-
-@media (min-width: 1000px) {
-    header > #headerBannerSmall {
-        display: none;
-    }
-    header > #headerBannerBig {
-        display: block;
     }
 }
 
