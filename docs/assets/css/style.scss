@@ -47,26 +47,14 @@ header > #headerBanner {
     margin: 2.4em;
 }
 
-header > #headerBannerBig {
+header > #headerBanner > img {
     min-height: 150px;
     max-width: 980px;
 }
 
-@media (max-width: 1000px) {
-    header > #headerBannerSmall {
-        display: block;
-    }
-    header > #headerBannerBig {
+@media (max-width: 768px) {
+    header > #headerBanner {
         display: none;
-    }
-}
-
-@media (min-width: 1000px) {
-    header > #headerBannerSmall {
-        display: none;
-    }
-    header > #headerBannerBig {
-        display: block;
     }
 }
 
