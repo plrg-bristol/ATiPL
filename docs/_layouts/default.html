@@ -18,7 +18,8 @@
       
       <div id="headerBanner">
       {% if site.banner %}
-        <img src="{{ site.banner.url }}" alt="{{ site.banner.desc }}" />
+        <img id="headerBannerBig" src="{{ site.banner.url }}" alt="{{ site.banner.desc }}" />
+        <img id="headerBannerSmall" src="{{ site.banner.url-small }}" alt="{{ site.banner.desc }}" />
       {% endif %}
       </div>
     </header>
