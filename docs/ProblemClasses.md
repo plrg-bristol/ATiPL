@@ -13,8 +13,4 @@ In the classes you will also have the opportunity to ask further questions.
 
 **WHO:** Eddie and Sam will be running the problem classes and marking your work.
 
-**HOW:**
-
-You will have the opportunity to get the answers to questions marked by an asterisk (*) marked by a TA.
-
-To do this, please submit your answers on Blackboard by **5pm on Mondays** preceding the problem class.
+**HOW:** You will have the opportunity to get the answers to questions marked by an asterisk (*) marked by a TA. Please submit your answers on Blackboard by **5pm on Mondays** preceding the problem class.

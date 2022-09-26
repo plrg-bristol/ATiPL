@@ -47,6 +47,10 @@ header > #headerBanner {
     margin: 2.4em;
 }
 
+header > #headerBanner > img {
+    max-width: 960px;
+}
+
 @media screen and (max-width: 768px) {
     header > #headerBanner {
         display: none;
