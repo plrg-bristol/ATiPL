@@ -51,8 +51,8 @@ header > #headerBanner > img {
     max-width: 960px;
 }
 
-@media screen and (max-width: 768px) {
-    header > #headerBanner {
+@media screen and (max-width: 1200px) {
+    header > #headerBanner > img {
         display: none;
     }
 }
