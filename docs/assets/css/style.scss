@@ -47,12 +47,12 @@ header > #headerBanner {
     margin: 2.4em;
 }
 
-header > #headerBanner > img {
+header > #headerBanner {
     min-height: 150px;
     max-width: 980px;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     header > #headerBanner {
         display: none;
     }
