@@ -2,11 +2,7 @@
 
 For this unit we will hold **problem classes**. 
 
-For each problem class there will be an associated **problem sheet**. To pass
-this unit you are expected to attempt _all__ the questions on the problem sheet.
-These are generally difficult questions; the point is not to solve them, but to
-think about them. We will use these questions to explore various additional
-themes and/or hold discussions.
+For each problem class there will be an associated **problem sheet**. To pass this unit you are expected to attempt _all_ the questions on the problem sheet. These are generally difficult questions; the point is not to solve them, but to think about them. We will use these questions to explore various additional themes and/or hold discussions.
 
 In the classes you will also have the opportunity to ask further questions.
 
@@ -15,8 +11,7 @@ In the classes you will also have the opportunity to ask further questions.
 
 **WHEN:** Thursdays 9am-10am (week 2 onwards)
 
-**WHO:** Eddie and Sam, will be running the problem classes and
-marking your work.
+**WHO:** Eddie and Sam will be running the problem classes and marking your work.
 
 **HOW:**
 
