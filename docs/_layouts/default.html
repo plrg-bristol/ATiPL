@@ -12,10 +12,12 @@
   <body>
     <header>
       <div id="headerLogo" class="center"> 
+        <img src="Images/BristolLogo.png" /> 
       </div>
       
       <div id="headerBanner">
       {% if site.banner %}
+        <img src="{{ site.banner.url }}" alt="{{ site.banner.desc }}" />
       {% endif %}
       </div>
 
