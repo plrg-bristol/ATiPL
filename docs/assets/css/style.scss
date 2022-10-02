@@ -64,6 +64,9 @@ header > #headerTitle {
 }
 
 @media screen and (max-width: 768px) {
+    header {
+        grid-template-columns: 1fr 0fr;
+    }
     main {
         grid-template-columns: 1fr;
     }
