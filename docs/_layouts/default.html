@@ -23,7 +23,9 @@
 
       <h1 id="headerUnitCode" class="center">{{ site.code }}</h1>
       
-      <h1 id="headerTitle" class="center">Advanced Topics in Programming Languages</h1>
+      {% if site.banner.displayTitle %}
+        <h1 id="headerTitle" class="center">Advanced Topics in Programming Languages</h1>
+      {% endif %}
     </header>
     
     <nav>

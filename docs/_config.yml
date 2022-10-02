@@ -6,3 +6,4 @@ year: 2021/22
 banner:
   url: Images/banner.png
   desc: A banner for the unit in the colours of Norton Commander
+  display-title: false
