@@ -67,6 +67,9 @@ header > #headerTitle {
     main {
         grid-template-columns: 1fr;
     }
+    nav {
+        max-width: 350px;
+    }
     header > #headerBanner > img {
         display: none;
     }
