@@ -29,14 +29,19 @@ header {
 }
 
 header > #headerLogo > img {
-    margin: 1.5em auto;
+    margin: 2em auto 1em auto;
     height: 150px;
+}
+
+header > #headerUnitCode {
+    margin: 1.5em auto;
 }
 
 header > #headerBanner {
     display: flex;
     align-items: center;
     justify-items: center;
+    margin-left: 2em;
 }
 
 header > #headerBanner > img {
