@@ -66,6 +66,10 @@ header > #headerTitle {
     header > #headerBanner > img {
         display: none;
     }
+    body {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
 
 // Nav
