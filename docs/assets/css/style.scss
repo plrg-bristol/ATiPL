@@ -65,12 +65,11 @@ header > #headerTitle {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        grid-template-columns: 1fr;
+    }
     header > #headerBanner > img {
         display: none;
-    }
-    body {
-        display: grid;
-        grid-template-columns: 1fr;
     }
 }
 
