@@ -44,6 +44,7 @@ header #headerUnitCode {
 header > #headerBanner {
     display: flex;
     align-items: center;
+    justify-content: center;
     margin: 2.4em;
 }
 
@@ -51,10 +52,16 @@ header > #headerBanner > img {
     max-width: 960px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 768px) and (max-width: 1200px) {
     header > #headerBanner > img {
         width: 512px;
         object-fit: scale-down;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header > #headerBanner > img {
+        display: none;
     }
 }
 
