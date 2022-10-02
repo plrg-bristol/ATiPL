@@ -8,7 +8,6 @@
 
 html {
     font-family: 'IBM Plex Serif', serif;
-    font-size: 14px;
 }
 
 body {
@@ -62,6 +61,7 @@ header > #headerBanner > img {
 nav {
     display: grid;
     grid-template-columns: 1fr;
+    grid-gap: 20px;
 }
 
 #contents {
@@ -73,6 +73,7 @@ nav {
 .nav-button {
     text-align: center;
     padding: 0.5em;
+    margin: 1em;
     background: black;
     color: #ffffff;
     border: 0.5em ridge rgb(131, 18, 18);
