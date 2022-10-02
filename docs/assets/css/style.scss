@@ -11,7 +11,7 @@
     font-size: 18px;
 }
 
-body {
+main {
     display: grid;
     grid-template-columns: 240px 1fr;
 }
@@ -19,7 +19,6 @@ body {
 // Header CSS
 
 header {
-    grid-column: span 2;
     display: grid;
     grid-template-columns: 240px 1fr;
     grid-template-rows: 175px 1fr;
@@ -65,7 +64,7 @@ header > #headerTitle {
 }
 
 @media screen and (max-width: 768px) {
-    body {
+    main {
         grid-template-columns: 1fr;
     }
     header > #headerBanner > img {

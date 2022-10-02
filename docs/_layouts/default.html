@@ -28,21 +28,23 @@
       {% endif %}
     </header>
     
-    <nav>
-      {% for item in site.data.pages.pages %}
-      <a href="{{ item.url }}">
-        <div class="nav-button">{{ item.title }}</div>
-      </a>
-      {% endfor %}
-    </nav>
-  
-    <article id="contents">
-      <div class="container-lg ml-5 my-5 markdown-body">
-        {{ content }}
-      </div>
-    </article>
+    <main>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+      <nav>
+        {% for item in site.data.pages.pages %}
+        <a href="{{ item.url }}">
+          <div class="nav-button">{{ item.title }}</div>
+        </a>
+        {% endfor %}
+      </nav>
+
+      <article id="contents">
+        <div class="container-lg ml-5 my-5 markdown-body">
+          {{ content }}
+        </div>
+      </article>
+      
+    </main>
+
   </body>
 </html>
