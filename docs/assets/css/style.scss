@@ -22,15 +22,10 @@ header {
     grid-column: span 2;
     display: grid;
     grid-template-columns: 240px 1fr;
+    grid-template-rows: 3fr 1fr;
     background: black;
     color: #ffffff;
     width: 100%;
-}
-
-header #headerLogo {
-    display: grid;
-    grid-template-rows: 3fr 1fr;
-    margin: 1.5em;
 }
 
 header > #headerLogo > img {

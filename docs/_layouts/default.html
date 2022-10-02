@@ -11,9 +11,8 @@
 
   <body>
     <header>
-       <div id="headerLogo"> 
+      <div id="headerLogo"> 
         <img src="Images/BristolLogo.png" /> 
-        <h1 id="headerUnitCode">{{ site.code }}</h1>
       </div>
       
       <div id="headerBanner">
@@ -21,6 +20,8 @@
         <img src="{{ site.banner.url }}" alt="{{ site.banner.desc }}" />
       {% endif %}
       </div>
+
+      <h1 id="headerUnitCode">{{ site.code }}</h1>
     </header>
     
     <nav>
