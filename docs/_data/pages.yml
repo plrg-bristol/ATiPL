@@ -4,10 +4,13 @@ pages:
   url: index.html
 
 - title: Lectures
-  url: Lectures.html
+  url: lectures.html
 
 - title: Problem Classes
-  url: ProblemClasses.html
+  url: problemClasses.html
+    
+- title: Assessment
+  url: assessment.html
     
 - title: Reading list
   url: https://rl.talis.com/3/bristol/lists/E87747F9-4A77-5DF1-E3C2-3D8D98264885.html?lang=en
