@@ -31,8 +31,6 @@ header {
 header > #headerLogo > img {
     height: 150px;
     margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 0;
 }
 
 header > #headerUnitCode {
@@ -42,7 +40,7 @@ header > #headerUnitCode {
 header > #headerBanner {
     display: flex;
     align-items: center;
-    margin-left: 2em;
+    margin-left: 1em;
 }
 
 header > #headerBanner > img {
