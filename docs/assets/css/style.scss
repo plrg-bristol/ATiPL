@@ -28,6 +28,12 @@ header {
     width: 100%;
 }
 
+header > #headerLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 header > #headerLogo > img {
     margin: 0.5em auto;
     height: 150px;
@@ -45,6 +51,7 @@ header > #headerBanner {
 }
 
 header > #headerBanner > img {
+    max-height: 150px;
     max-width: 960px;
 }
 
