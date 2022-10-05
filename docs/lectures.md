@@ -5,7 +5,7 @@
 | 1    | Tuesday   | Judgements                | [pdf](lectures/lecture01.pdf)    |
 |      | Wednesday  | Induction                 | [pdf](lectures/lecture02.pdf)    |
 | 2    | Tuesday   | Statics                   | [pdf](lectures/lecture03.pdf) |
-|      | Wednesday  | Inversion & Structural Rules | [pdf](lecture/lecture04.pdf) | 
+|      | Wednesday  | Inversion & Structural Rules | [pdf](lectures/lecture04.pdf) | 
 | 3    | Tuesday   | Dynamics                  | |
 |      | Wednesday  | Type safety               | |
 | 4    | Tuesday   | Sums and products         | |
