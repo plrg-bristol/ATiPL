@@ -1,4 +1,4 @@
-# Advanced Topics in Programming Languages 2021/22
+# Advanced Topics in Programming Languages 2022/23
 
 Advanced Topics in Programming Languages is a fourth year optional unit at the University of Bristol. The unit provides a grounding in the field of Programming Languages, along with an insight into what it is like to be Programming Languages researcher.
 
