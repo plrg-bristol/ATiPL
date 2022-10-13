@@ -8,8 +8,8 @@
 |      | Wednesday  | Inversion & Structural Rules | [pdf](lectures/lecture04.pdf) | 
 | 3    | Tuesday   | Dynamics                  | [pdf](lectures/lecture05.pdf) |
 |      | Wednesday  | Type safety               | [pdf](lectures/lecture06.pdf) |
-| 4    | Tuesday   | Sums and products         | |
-|      | Wednesday  | Functions                 | |
+| 4    | Tuesday   | Sums and products         | [pdf](lectures/lecture07.pdf) |
+|      | Wednesday  | Functions                 | [pdf](lectures/lecture08.pdf) |
 | 5    | Tuesday   | Recursion                 | |
 |      | Wednesday  | Recursion II              | |
 | 6    | Tuesday   | CBN, CBV, effects         | |
