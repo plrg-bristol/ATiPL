@@ -10,9 +10,9 @@
 |      | Wednesday  | Type safety               | [pdf](lectures/lecture06.pdf) |
 | 4    | Tuesday   | Sums and products         | [pdf](lectures/lecture07.pdf) |
 |      | Wednesday  | Functions                 | [pdf](lectures/lecture08.pdf) |
-| 5    | Tuesday   | Recursion                 | |
-|      | Wednesday  | Recursion II              | |
-| 6    | Tuesday   | CBN, CBV, effects         | |
+| 5    | Tuesday   | Recursion                 | [pdf](lectures/lecture09.pdf) |
+|      | Wednesday  | Recursion II              | [pdf](lectures/lecture10.pdf) |
+| 6    | Tuesday   | CBN, CBV, effects         | [pdf](lectures/lecture11.pdf) |
 |      | Wednesday  | Modernised Algol I        | |
 | 7    | Tuesday   | Modernised Algol II       | |
 |      | Wednesday  | ?                         | |
