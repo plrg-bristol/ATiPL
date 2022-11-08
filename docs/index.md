@@ -14,10 +14,9 @@ group website](https://bristolpl.github.io/).
 
 | What          | When           | Where                                     |
 |---------------|----------------|-------------------------------------------|
-| Lecture       | Tue 11am-12pm  | Queen's Building 1.69 (weeks 1-5)         |
-|               |                | Chemistry building WS402 (weeks 7-8)      |
-| Lecture       | Wed 12pm-12pm  | Queen's Building 1.69                     |
-|               |                | Chemistry building WS402 (weeks 7-8)      |
+| Lecture       | Tue 11am-12pm  | Queen's Building 1.69                     |
+| Lecture       | Wed 12pm-1pm   | Queen's Building 1.69 (weeks 1-5)         |
+|               |                | Chemistry Building WS402 (weeks 7-8)      |
 | Problem Class | Thurs 9-10am   | Queen's Building 1.69                     |
 
 ## Staff
