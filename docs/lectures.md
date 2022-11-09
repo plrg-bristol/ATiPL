@@ -13,6 +13,6 @@
 | 5    | Tuesday   | Recursion                 | [pdf](lectures/lecture09.pdf) |
 |      | Wednesday  | Recursion II              | [pdf](lectures/lecture10.pdf) |
 | 6    | Tuesday   | CBN, CBV, effects         | [pdf](lectures/lecture11.pdf) |
-|      | Wednesday  | Modernised Algol I        | |
+|      | Wednesday  | Modernised Algol I        | [pdf](lectures/lecture12.pdf) |
 | 7    | Tuesday   | Modernised Algol II       | |
 |      | Wednesday  | ?                         | |
