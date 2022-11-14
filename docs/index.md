@@ -1,6 +1,9 @@
 # Advanced Topics in Programming Languages 2022/23
 
-Advanced Topics in Programming Languages is a fourth year optional unit at the University of Bristol. The unit provides a grounding in the field of Programming Languages, along with an insight into what it is like to be Programming Languages researcher.
+Advanced Topics in Programming Languages is a fourth year optional unit at the
+University of Bristol. The unit provides a grounding in the field of Programming
+Languages (PL), along with an insight into what it is like to be a PL
+researcher.
 
 This year the unit will be based on Robert Harper's book [_Practical Foundations for
 Programming Languages_](https://www.cs.cmu.edu/~rwh/pfpl/) (Cambridge University
