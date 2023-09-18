@@ -9,7 +9,7 @@ In the classes you will also have the opportunity to ask further questions.
 
 **WHERE:** Queen's building 1.68
 
-**WHEN:** Tuesdays 2pm-3pm (week 2 onwards)
+**WHEN:** Fridays 12pm (week 2 onwards)
 
 **WHO:** Charlie and Sam will be running the problem classes and marking your work.
 
