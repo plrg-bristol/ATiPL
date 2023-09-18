@@ -11,7 +11,7 @@ Press, 2nd edition, 2016). An electronic copy of the book may be obtained
 through the University of Bristol library.
 
 For more information on PL research at Bristol please visit the [Programming Languages
-group website](https://bristolpl.github.io/).
+group website](https://plrg-bristol.github.io/).
 
 ## Schedule
 
