@@ -1,4 +1,4 @@
-# Advanced Topics in Programming Languages 2022/23
+# Advanced Topics in Programming Languages 2023/24
 
 Advanced Topics in Programming Languages is a fourth year optional unit at the
 University of Bristol. The unit provides a grounding in the field of Programming
@@ -17,10 +17,9 @@ group website](https://bristolpl.github.io/).
 
 | What          | When           | Where                                     |
 |---------------|----------------|-------------------------------------------|
-| Lecture       | Tue 11am-12pm  | Queen's Building 1.69                     |
-| Lecture       | Wed 12pm-1pm   | Queen's Building 1.69 (weeks 1-5)         |
-|               |                | Chemistry Building WS402 (weeks 7-8)      |
-| Problem Class | Thurs 9-10am   | Queen's Building 1.69                     |
+| Lecture       | Mon 2pm        | Queen's Building 1.06                     |
+| Lecture       | Fri 12pm       | Queen's Building 1.68                     |
+| Problem Class | Tue 2pm        | Ada Lovelace Building SM 3                |
 
 ## Staff
 
@@ -32,6 +31,6 @@ group website](https://bristolpl.github.io/).
 
 ### TAs
 
-| [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | [![Eddie Jones](Images/Staff/Eddie.png#face)](https://ec-jones.github.io/)             |
+| [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | | 
 | :------------------------:   | :-------------------------------------------:|
-| Sam Frohlich                 | Eddie Jones                                  |
+| Sam Frohlich                 | Charlie Walpole                                 |
