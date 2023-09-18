@@ -8,7 +8,7 @@ researcher.
 This year the unit will be based on Robert Harper's book [_Practical Foundations for
 Programming Languages_](https://www.cs.cmu.edu/~rwh/pfpl/) (Cambridge University
 Press, 2nd edition, 2016). An electronic copy of the book may be obtained
-through the University of Bristol library.
+through the [University of Bristol library](https://www.bristol.ac.uk/library/).
 
 For more information on PL research at Bristol please visit the [Programming Languages
 group website](https://plrg-bristol.github.io/).
