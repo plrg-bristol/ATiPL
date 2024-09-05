@@ -17,9 +17,9 @@ group website](https://plrg-bristol.github.io/).
 
 | What          | When           | Where                                     |
 |---------------|----------------|-------------------------------------------|
-| Lecture       | Mon 2pm        | Queen's Building 1.06                     |
-| Lecture       | Tue 2pm        | Ada Lovelace Building SM 3                |
-| Problem Class | Fri 12pm       | Queen's Building 1.68                     |
+| Lecture       | Wed 10am       | Queen's Building 1.69                     |
+| Lecture       | Thu 3pm        | Queen's Building 1.07                     |
+| Problem Class | Fri 11am       | Queen's Building 1.69                     |
 
 ## Staff
 
