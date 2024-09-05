@@ -25,12 +25,12 @@ group website](https://plrg-bristol.github.io/).
 
 ### Lecturers
 
-| [![Meng Wang](Images/Staff/Meng.png#face)](https://mengwangoxf.github.io/) | [![Alex Kavvos](Images/Staff/Alex.jpg#face)](https://www.lambdabetaeta.eu/) |
-| :-------------------------------:   | :------------------------------------:|
-| Meng Wang                           | Alex Kavvos                           |
+| [![Meng Wang](Images/Staff/Meng.png#face)](https://mengwangoxf.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |[![Alex Kavvos](Images/Staff/Alex.jpg#face)](https://www.lambdabetaeta.eu/) |
+| :-------------------------------:|:------------------------:|:------------------------------------:|
+| Meng Wang                        | Sam Frohlich             | Alex Kavvos                           |
 
 ### TAs
 
-| [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) | | 
+|                              | | 
 | :------------------------:   | :-------------------------------------------:|
-| Sam Frohlich                 | Charlie Walpole                                 |
+| April Tune                   | Tom Divers                                 |
