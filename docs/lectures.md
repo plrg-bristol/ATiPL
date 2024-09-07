@@ -12,12 +12,12 @@
 |      | Thursday  | Functions                 | [Notes](pdf/lecture08.pdf) |
 | 5    | Wednesday | Recursion                 | [Notes](pdf/lecture09.pdf) |
 |      | Thursday  | Recursion II              | [Notes](pdf/lecture10.pdf) |
-| 6    <td colspan=2> <center>Reading week
+| 6    | Reading week
 | 7    | Wednesday | CBN, CBV, effects         | [Notes](pdf/lecture11.pdf) |
 |      | Thursday  | Modernised Algol I        | [Notes](pdf/lecture12.pdf) |
 | 8    | Wednesday | Modernised Algol II       | [Notes](pdf/lecture13.pdf) |
 |      | Thursday  | Canonicity                | [Notes](pdf/lecture14.pdf) |
-|<td colspan=2><center>...
+|...
 | 12   | Wednesday | Revision Sesh             |  |
 
-> NOTE:- while this includes resources for all lectures, **resources for future lectures are subject to change.** (I don't anticipate that they will change greatly, so I have released them to you for you to use at your discretion)
+NOTE:- while this includes resources for all lectures, **resources for future lectures are subject to change.** (I don't anticipate that they will change greatly, so I have released them to you for you to use at your discretion)
