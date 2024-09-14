@@ -30,6 +30,6 @@ group website](https://plrg-bristol.github.io/).
 | Meng Wang                        | Sam Frohlich             |
 ### TAs
 
-|                              | | 
+| ![April Tune](Images/Staff/April.jpg#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) | 
 | :------------------------:   | :-------------------------------------------:|
 | April Tune                   | Tom Divers                                 |
