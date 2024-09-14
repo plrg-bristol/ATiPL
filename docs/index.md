@@ -25,10 +25,9 @@ group website](https://plrg-bristol.github.io/).
 
 ### Lecturers
 
-| [![Meng Wang](Images/Staff/Meng.png#face)](https://mengwangoxf.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |[![Alex Kavvos](Images/Staff/Alex.jpg#face)](https://www.lambdabetaeta.eu/) |
-| :-------------------------------:|:------------------------:|:------------------------------------:|
-| Meng Wang                        | Sam Frohlich             | Alex Kavvos                           |
-
+| [![Meng Wang](Images/Staff/Meng.png#face)](https://mengwangoxf.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |
+| :-------------------------------:|:------------------------:|
+| Meng Wang                        | Sam Frohlich             |
 ### TAs
 
 |                              | | 
