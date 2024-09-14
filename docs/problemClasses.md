@@ -9,7 +9,7 @@ In the classes, you will also have the opportunity to ask further questions.
 
 **WHERE:** Queen's building 1.69
 
-**WHEN:** Fridays 11am (including week one, where there will be no sheet, but this will be a chance to meet the TAs and take a look at / get help on the first sheet)
+**WHEN:** Fridays 11am (including week one, where there will be no sheet due, but this will be a chance to meet the TAs and take a look at / get help on the first sheet)
 
 **WHO:** April and Tom will be running the problem classes and marking your work.
 
@@ -21,7 +21,8 @@ Your email should:
   * Tom - oi24939@bristol.ac.uk
 2. Have your answers attached as a _single PDF_. If available, we recommend completing your work digitally i.e. either by writing with an iPad, ReMarkable, or similar (no need to use latex to render it nicely, we'd rather you focussed on the problems rather than the typesetting), but if this is not possible you are welcome to complete your answers on paper, please just _scan_ your work (photos of paper are very hard to read and thus mark).
 3. Have the subject "ATiPL Sheet n", where n is the sheet number. This uniform system (_using sheet number not week number_) will allow the TAs to better organise the submissions.
-The TAs will then ensure that your work is marked and emailed back to you by 5pm on Thursday. Please look at your marked work ahead of the problem class on Friday so that you can come prepared with questions for the TAs and make the most of the class.
+
+The TAs will then ensure that your work is marked and emailed back to you by 5pm on Thursday. Sample answers will also be posted on teams at this time. Please look at your marked work ahead of the problem class on Friday so that you can come prepared with questions for the TAs and make the most of the class.
 
 # Sheets
 
