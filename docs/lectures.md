@@ -14,10 +14,20 @@
 |      | Thursday  | Recursion II              | [Notes](pdf/lecture10.pdf) |
 | 6    | Reading week
 | 7    | Wednesday | CBN, CBV, effects         | [Notes](pdf/lecture11.pdf) |
-|      | Thursday  | Modernised Algol I        | [Notes](pdf/lecture12.pdf) |
-| 8    | Wednesday | Modernised Algol II       | [Notes](pdf/lecture13.pdf) |
-|      | Thursday  | Canonicity                | [Notes](pdf/lecture14.pdf) |
+|      | Thursday  | Intensional datatype refinement*    | [Paper](https://dl.acm.org/doi/abs/10.1145/3434336) |
+| 8    | Wednesday | Ill-Typed Programs Don’t Evaluate** | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
+|      | Thursday  | Ill-Typed Programs Don’t Evaluate** | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
 |...
 | 12   | Wednesday | Revision Sesh             |  |
 
-NOTE:- while this includes resources for all lectures, **resources for future lectures are subject to change.** (I don't anticipate that they will change greatly, so I have released them to you for you to use at your discretion)
+The end of the course has been re-structured so that you can consolidate what you
+have learnt in the exciting setting of real research papers, presented by members
+of the [Bristol Programming Languages Research Group](https://plrg-bristol.github.io/)
+
+*Guest speaker [Eddie Jones](https://ec-jones.github.io/)
+
+**Guest Speaker [Charlie Walpole](https://research-information.bris.ac.uk/en/persons/charlie-j-walpole)
+
+Previous lecture notes: [Modernised Algol I](pdf/lecture12.pdf), [Modernised Algol II](pdf/lecture13.pdf), and [Canonicity](pdf/lecture14.pdf).
+Reading the Algol notes and doing the [Algol Problem Sheet](pdf/sheet07.pdf) will be excellent exam prep, but you
+**will not** be examined on Algol.

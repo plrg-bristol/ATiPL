@@ -38,8 +38,8 @@ Note that while the future sheets are shared (to allow you to more flexibly mana
 |   6   | Reading week - no sheet due   |
 |   7   | [Problem Sheet](pdf/sheet05.pdf)   |
 |   8   | [Problem Sheet](pdf/sheet06.pdf)   |
-|  11   | ([Problem Sheet](pdf/sheet07.pdf))*   |
+|  11   | (Read the papers introduced by our guest speakers)*   |
 
-*optional - the TAs will mark this work if it is submitted by the usual time in week 11, you will then get it back in time for the revision session that is scheduled in week 12.
+*optional
 
 For your convenience, we have also gathered the static and dynamics of [STLC](pdf/stlc.pdf) and [PCF](pdf/pcf.pdf) into these linked reference sheets, and we have gathered key theorems and lemmata [here](pdf/theorems+lemmata.pdf). Note that you will be given these reference figures and any other rules / theorems you will need in the exam. Please don't waste time memorising rules.
