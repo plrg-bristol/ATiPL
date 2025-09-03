@@ -1,4 +1,4 @@
-# Advanced Topics in Programming Languages 2024/25
+# Advanced Topics in Programming Languages 2025/26
 
 Advanced Topics in Programming Languages is a fourth year optional unit at the
 University of Bristol. The unit provides a grounding in the field of Programming
@@ -17,9 +17,9 @@ group website](https://plrg-bristol.github.io/).
 
 | What          | When           | Where                                     |
 |---------------|----------------|-------------------------------------------|
-| Lecture       | Wed 10am       | Queen's Building 1.69                     |
-| Lecture       | Thu 3pm        | Queen's Building 1.07                     |
-| Problem Class | Fri 11am       | Queen's Building 1.69                     |
+| Lecture       | Tues 11am      | Queen's Building 1.69                     |
+| Lecture       | Wed 9am        | ADA LOVELACE BLDG SM3                     |
+| Problem Class | Thurs 11am     | Queen's Building 1.69                     |
 
 ## Staff
 
@@ -31,6 +31,6 @@ group website](https://plrg-bristol.github.io/).
 
 ### TAs
 
-| ![April Tune](Images/Staff/April.jpg#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) |
+| ![Samson Main](Images/Staff/no_img.png#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) |
 | :------------------------:   | :-------------------------------------------:|
-| April Tune                   | Tom Divers                                 |
+| Samson Main                   | Tom Divers                                 |

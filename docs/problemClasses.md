@@ -9,24 +9,22 @@ In the classes, you will also have the opportunity to ask further questions.
 
 **WHERE:** Queen's building 1.69
 
-**WHEN:** Fridays 11am (including week one, where there will be no sheet due, but this will be a chance to meet the TAs and take a look at / get help on the first sheet)
+**WHEN:** Thursdays 11am (including week one, where there will be no sheet due, but this will be a chance to meet the TAs and take a look at / get help on the first sheet)
 
-**WHO:** April and Tom will be running the problem classes and marking your work.
+**WHO:** Samson and Tom will be running the problem classes and marking your work.
 
 **HOW:** You will have the opportunity to get the answers to questions marked by an asterisk (*) marked by a TA. Please submit your answers via email by **5pm on the Tuesday preceding the problem class.**
 Your email should:
 1. Be sent to _both_ TAs and Sam. This is just to allow us to fairly share the marking workload between the TAs (and have the fail-safe of Sam incase one or both of the TAs are ill). Our emails are:
   * Sam - samantha.frohlich@bristol.ac.uk
-  * April - ky19235@bristol.ac.uk
+  * Samson - ib21231@bristol.ac.uk
   * Tom - oi24939@bristol.ac.uk
 2. Have your answers attached as a _single PDF_. If available, we recommend completing your work digitally i.e. either by writing with an iPad, ReMarkable, or similar (no need to use latex to render it nicely, we'd rather you focussed on the problems rather than the typesetting), but if this is not possible you are welcome to complete your answers on paper, please just _scan_ your work (photos of paper are very hard to read and thus mark).
 3. Have the subject "ATiPL Sheet n", where n is the sheet number. This uniform system (_using sheet number not week number_) will allow the TAs to better organise the submissions.
 
-The TAs will then ensure that your work is marked and emailed back to you by 5pm on Thursday. Sample answers will also be posted on teams at this time. Please look at your marked work ahead of the problem class on Friday so that you can come prepared with questions for the TAs and make the most of the class.
+The TAs will then ensure that your work is marked and emailed back to you by 5pm on Wednesday. Sample answers will also be posted on teams at this time. Please look at your marked work ahead of the problem class on Friday so that you can come prepared with questions for the TAs and make the most of the class.
 
 # Sheets
-
-Note that while the future sheets are shared (to allow you to more flexibly manage your time), and unlikely to change drastically, they are subject to change (and hey if they do change, there's no harm in extra practice :D ).
 
 | Week sheet due | Sheet |
 |-------|-------|
@@ -38,7 +36,7 @@ Note that while the future sheets are shared (to allow you to more flexibly mana
 |   6   | Reading week - no sheet due   |
 |   7   | [Problem Sheet](pdf/sheet05.pdf)   |
 |   8   | [Problem Sheet](pdf/sheet06.pdf)   |
-|  11   | (Read the papers introduced by our guest speakers)*   |
+|  11   | (Read the papers introduced by our guest speaker)*   |
 
 *optional
 
