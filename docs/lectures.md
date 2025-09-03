@@ -2,8 +2,7 @@
 
 | Week | Day      | Topic                     | Resources                        |
 | ---- | -------- | -------------------       | -------------------------------- |
-| 1    | Tuesday   | Welcome + Judgements     | [Notes](pdf/lecture01.pdf)
-                                                [test](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMSM0067-2024-25-TB-1-A/Shared%20Documents/General/Lectures/Week1/Week1BP.pdf?csf=1&web=1&e=ksEYA9)    |
+| 1    | Tuesday   | Welcome + Judgements     | [Slides](https://docs.google.com/presentation/d/1O4MQK7cX1pdHAUNXNrAxX0d7OdDLAsUcCL90qxixPLQ/edit?usp=sharing)[Notes](pdf/lecture01.pdf)[test](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMSM0067-2024-25-TB-1-A/Shared%20Documents/General/Lectures/Week1/Week1BP.pdf?csf=1&web=1&e=ksEYA9)    |
 |      | Wednesday | Induction                 | [Notes](pdf/lecture02.pdf)    |
 | 2    | Tuesday   | Statics                   | [Notes](pdf/lecture03.pdf) |
 |      | Wednesday | Inversion & Structural Rules | [Notes](pdf/lecture04.pdf) | 
