@@ -2,7 +2,7 @@
 
 | Week | Day      | Topic                     | Resources                        |
 | ---- | -------- | -------------------       | -------------------------------- |
-| 1    | Tuesday   | Welcome + Judgements     | [Slides](https://docs.google.com/presentation/d/1O4MQK7cX1pdHAUNXNrAxX0d7OdDLAsUcCL90qxixPLQ/edit?usp=sharing) [Notes](pdf/lecture01.pdf) |
+| 1    | Tuesday   | Welcome + Judgements     | [Slides](https://docs.google.com/presentation/d/1O4MQK7cX1pdHAUNXNrAxX0d7OdDLAsUcCL90qxixPLQ/edit?usp=sharing), [Notes](pdf/lecture01.pdf) |
 |      | Wednesday | Induction                 | [Notes](pdf/lecture02.pdf)    |
 | 2    | Tuesday   | Statics                   | [Notes](pdf/lecture03.pdf) |
 |      | Wednesday | Inversion & Structural Rules | [Notes](pdf/lecture04.pdf) | 
