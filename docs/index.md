@@ -31,6 +31,6 @@ group website](https://plrg-bristol.github.io/).
 
 ### TAs
 
-| ![Samson Main](Images/Staff/no_img.png#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) |
+| ![Samson Main](Images/Staff/Samson.jpg#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) |
 | :------------------------:   | :-------------------------------------------:|
 | Samson Main                   | Tom Divers                                 |
