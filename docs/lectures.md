@@ -16,13 +16,15 @@
 | 7    | Tuesday   | CBN, CBV, effects         | [Notes](pdf/lecture11.pdf) |
 |      | Wednesday | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
 | 8    | Tuesday   | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
-|      | Wednesday | TBD | |
+|      | Wednesday | Rusty Type Systems** | |
 
 The end of the course has been re-structured so that you can consolidate what you
 have learnt in the exciting setting of real research papers, presented by members
 of the [Bristol Programming Languages Research Group](https://plrg-bristol.github.io/)
 
 *Guest Speaker [Charlie Walpole](https://research-information.bris.ac.uk/en/persons/charlie-j-walpole)
+
+**Guest Speaker Tom Divers
 
 Previous lecture notes: [Modernised Algol I](pdf/lecture12.pdf), [Modernised Algol II](pdf/lecture13.pdf), and [Canonicity](pdf/lecture14.pdf).
 Reading the Algol notes and doing the [Algol Problem Sheet](pdf/sheet07.pdf) will be excellent exam prep, but you
