@@ -1,4 +1,4 @@
-# Takeaways for Lecture One
+# Takeaways for Week One
 
 Judgements and evidence
   - KNOW: A judgement is a statement (proposition, utterance, enunciation). "claim"
