@@ -6,7 +6,7 @@ The phase distinction
     - dynamic phase: everything that happens when a program is actually run (runtime) e.g. final value, side-effects, exceptions, etc.
 
 Typing judgements
-  * KNOW the syntax and components of a typing judgement: Γ |- e : σ, where
+  * KNOW the syntax and components of a typing judgement: `Γ |- e : σ`, where
     - Γ = the _context_/_environment_, an unordered list of variable type _bindings_/_assignments_
     - e = the _program_/_expression_ being typed
     - σ = the type of the result of the program
