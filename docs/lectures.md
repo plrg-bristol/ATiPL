@@ -4,10 +4,10 @@
 | ---- | -------- | -------------------       | -------------------------------- |
 | 1    | Tuesday   | Welcome + Judgements     | [Slides](https://docs.google.com/presentation/d/1O4MQK7cX1pdHAUNXNrAxX0d7OdDLAsUcCL90qxixPLQ/edit?usp=sharing), [Notes](pdf/lecture01.pdf), [Pt1](content/Week1-1.pdf)|
 |      | Wednesday | Induction                 | [Notes](pdf/lecture02.pdf), [Pt2](content/Week1-2.pdf), [BP](content/Week1BP.pdf), [Proofs Note](content/Proofs.pdf), [Takeaways](Takeaways1.md) |
-| 2    | Tuesday   | Statics                   | [Notes](pdf/lecture03.pdf), [Pt1](content/Week2-1.pdf), |
+| 2    | Tuesday   | Statics                   | [Notes](pdf/lecture03.pdf), [Pt1](content/Week2-1.pdf) |
 |      | Wednesday | Inversion & Structural Rules | [Notes](pdf/lecture04.pdf), [Pt2](content/Week2-2.pdf), [BP](content/Week2BP.pdf), [Takeaways](Takeaways2.md) | 
-| 3    | Tuesday   | Dynamics                  | [Notes](pdf/lecture05.pdf) |
-|      | Wednesday | Type safety               | [Notes](pdf/lecture06.pdf) |
+| 3    | Tuesday   | Dynamics                  | [Notes](pdf/lecture05.pdf), [Pt1](content/Week3-1.pdf) |
+|      | Wednesday | Type safety               | [Notes](pdf/lecture06.pdf), [Takeaways](Takeaways3.md) |
 | 4    | Tuesday   | Sums and products         | [Notes](pdf/lecture07.pdf) |
 |      | Wednesday | Functions                 | [Notes](pdf/lecture08.pdf) |
 | 5    | Tuesday   | Recursion                 | [Notes](pdf/lecture09.pdf) |
