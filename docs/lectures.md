@@ -8,8 +8,8 @@
 |      | Wednesday | Inversion & Structural Rules | [Notes](pdf/lecture04.pdf), [Pt2](content/Week2-2.pdf), [BP](content/Week2BP.pdf), [Takeaways](Takeaways2.md) | 
 | 3    | Tuesday   | Dynamics                  | [Notes](pdf/lecture05.pdf), [Pt1](content/Week3-1.pdf) |
 |      | Wednesday | Type safety               | [Notes](pdf/lecture06.pdf), [Pt2](content/week3-2.pdf), [BP](content/Week3BP.pdf), [Takeaways](Takeaways3.md) |
-| 4    | Tuesday   | Sums and products         | [Notes](pdf/lecture07.pdf) |
-|      | Wednesday | Functions                 | [Notes](pdf/lecture08.pdf) |
+| 4    | Tuesday   | Sums and products         | [Notes](pdf/lecture07.pdf), [Pt1](content/Week4-1.pdf) |
+|      | Wednesday | Functions                 | [Notes](pdf/lecture08.pdf), [Takeaways](Takeaways4.md) |
 | 5    | Tuesday   | Recursion                 | [Notes](pdf/lecture09.pdf) |
 |      | Wednesday | Recursion II              | [Notes](pdf/lecture10.pdf) |
 | 6    | Consolidation Week
