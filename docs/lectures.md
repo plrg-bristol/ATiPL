@@ -10,7 +10,7 @@
 |      | Wednesday | Type safety               | [Notes](pdf/lecture06.pdf), [Pt2](content/week3-2.pdf), [BP](content/Week3BP.pdf), [Takeaways](Takeaways3.md) |
 | 4    | Tuesday   | Sums and products         | [Notes](pdf/lecture07.pdf), [Pt1](content/Week4-1.pdf) |
 |      | Wednesday | Functions                 | [Notes](pdf/lecture08.pdf), [Pt2](content/Week4-2.pdf), [BP](content/Week4BP.pdf), [Takeaways](Takeaways4.md) |
-| 5    | Tuesday   | Recursion                 | [Notes](pdf/lecture09.pdf) |
+| 5    | Tuesday   | Recursion                 | [Notes](pdf/lecture09.pdf), [Pt1](content/Week5-1.pdf) |
 |      | Wednesday | Recursion II              | [Notes](pdf/lecture10.pdf) |
 | 6    | Consolidation Week
 | 7    | Tuesday   | CBN, CBV, effects         | [Notes](pdf/lecture11.pdf) |
