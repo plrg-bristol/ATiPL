@@ -30,11 +30,11 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 |-------|-------|
 |   1   | Only week one - no sheet due |
 |   2   | [Problem Sheet](pdf/sheet01.pdf), [Answers](content/sheet01-answers.pdf), [SamSols](content/SamSols1.pdf), [Lean](content/Sheet1Lean.zip)   |
-|   3   | [Problem Sheet](pdf/sheet02.pdf)   |
-|   4   | [Problem Sheet](pdf/sheet03.pdf)   |
-|   5   | [Problem Sheet](pdf/sheet04.pdf)   |
+|   3   | [Problem Sheet](pdf/sheet02.pdf), [Answers](content/sheet02-answers.pdf)   |
+|   4   | [Problem Sheet](pdf/sheet03.pdf), [Answers](content/sheet03-answers.pdf), [SamSols](content/SamSols3.pdf)   |
+|   5   | [Problem Sheet](pdf/sheet04.pdf), [Answers](content/sheet04-answers.pdf), [SamSols](content/SamSols4.pdf)   |
 |   6   | Reading week - no sheet due   |
-|   7   | [Problem Sheet](pdf/sheet05.pdf)   |
+|   7   | [Problem Sheet](pdf/sheet05.pdf), [Answers](content/sheet05-answers.pdf), [SamSols](content/SamSols5.pdf)   |
 |   8   | [Problem Sheet](pdf/sheet06.pdf)   |
 |  11   | (Read the papers introduced by our guest speaker)*   |
 
