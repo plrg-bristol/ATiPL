@@ -15,8 +15,8 @@
 | 6    | Consolidation Week
 | 7    | Tuesday   | CBN, CBV, effects         | [Notes](pdf/lecture11.pdf), [Pt1](content/Week7.pdf), [BP](content/Week7BP.pdf), [Takeaways](Takeaways7.md) |
 |      | Wednesday | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
-| 8    | Tuesday   | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
-|      | Wednesday | Rusty Type Systems** | |
+| 8    | Tuesday   | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909), [Slides](content/ATPL%20-%20ill%20typing.pdf) |
+|      | Wednesday | Rusty Type Systems** | [Slides](content/rusty-slides.pdf) |
 
 The end of the course has been re-structured so that you can consolidate what you
 have learnt in the exciting setting of real research papers, presented by members

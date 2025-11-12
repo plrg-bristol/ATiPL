@@ -35,7 +35,7 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 |   5   | [Problem Sheet](pdf/sheet04.pdf), [Answers](content/sheet04-answers.pdf), [SamSols](content/SamSols4.pdf)   |
 |   6   | Reading week - no sheet due   |
 |   7   | [Problem Sheet](pdf/sheet05.pdf), [Answers](content/sheet05-answers.pdf), [SamSols](content/SamSols5.pdf)   |
-|   8   | [Problem Sheet](pdf/sheet06.pdf)   |
+|   8   | [Problem Sheet](pdf/sheet06.pdf), [Answers](content/sheet06-answers.pdf), [SamSols](content/SamSols6.pdf)   |
 |  11   | (Read the papers introduced by our guest speaker)*   |
 
 *optional
