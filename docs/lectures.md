@@ -7,7 +7,7 @@
 | 2    | Tuesday   | Statics                                   | [Notes](pdf/lecture03.pdf) |
 |      | Wednesday | Inversion & Structural Rules              | [Notes](pdf/lecture04.pdf), [Takeaways](Takeaways2.md) |
 | 3    | Tuesday   | Dynamics                                  | [Notes](pdf/lecture05.pdf) |
-|      | Wednesday | Type safety                               | [Notes](pdf/lecture06.pdf) [Takeaways](Takeaways3.md) |
+|      | Wednesday | Type safety                               | [Notes](pdf/lecture06.pdf), [Takeaways](Takeaways3.md) |
 | 4    | Tuesday   | Functions, Effects and Calling Mechanisms | [Notes](pdf/lecture07.pdf), [Takeaways](Takeaways4.md) |
 |      | Wednesday | Hoare Logic I: Triples and rules                                 |  |
 | 5    | Tuesday   | Hoare Logic II: Soundness, invariants and weakest preconditions  | [Takeaways](TakeawaysHL.md) |
