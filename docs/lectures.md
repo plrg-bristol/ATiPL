@@ -2,30 +2,20 @@
 
 | Week | Day      | Topic                     | Resources                        |
 | ---- | -------- | -------------------       | -------------------------------- |
-| 1    | Tuesday   | Welcome + Judgements     | [Slides](https://docs.google.com/presentation/d/1O4MQK7cX1pdHAUNXNrAxX0d7OdDLAsUcCL90qxixPLQ/edit?usp=sharing), [Notes](pdf/lecture01.pdf), [Pt1](content/Week1-1.pdf)|
-|      | Wednesday | Induction                 | [Notes](pdf/lecture02.pdf), [Pt2](content/Week1-2.pdf), [BP](content/Week1BP.pdf), [Proofs Note](content/Proofs.pdf), [Takeaways](Takeaways1.md) |
-| 2    | Tuesday   | Statics                   | [Notes](pdf/lecture03.pdf), [Pt1](content/Week2-1.pdf) |
-|      | Wednesday | Inversion & Structural Rules | [Notes](pdf/lecture04.pdf), [Pt2](content/Week2-2.pdf), [BP](content/Week2BP.pdf), [Takeaways](Takeaways2.md) | 
-| 3    | Tuesday   | Dynamics                  | [Notes](pdf/lecture05.pdf), [Pt1](content/Week3-1.pdf) |
-|      | Wednesday | Type safety               | [Notes](pdf/lecture06.pdf), [Pt2](content/week3-2.pdf), [BP](content/Week3BP.pdf), [Takeaways](Takeaways3.md) |
-| 4    | Tuesday   | Sums and products         | [Notes](pdf/lecture07.pdf), [Pt1](content/Week4-1.pdf) |
-|      | Wednesday | Functions                 | [Notes](pdf/lecture08.pdf), [Pt2](content/Week4-2.pdf), [BP](content/Week4BP.pdf), [Takeaways](Takeaways4.md) |
-| 5    | Tuesday   | Recursion                 | [Notes](pdf/lecture09.pdf), [Pt1](content/Week5-1.pdf) |
-|      | Wednesday | Recursion II              | [Notes](pdf/lecture10.pdf), [Pt2](content/Week5-2.pdf), [BP](content/Week5BP.pdf), [Takeaways](Takeaways5.md), [TLC Notes](https://uob-coms30040.github.io/assets/notes.pdf), [Bonus](https://docs.google.com/presentation/d/15ESg-6I5jVkQ9SNKFQ7Nm__WeoVnwTC6N0sPj65pFG4/edit?usp=sharing) |
+| 1    | Tuesday   | Welcome + Judgements                      | [Slides](https://docs.google.com/presentation/d/1O4MQK7cX1pdHAUNXNrAxX0d7OdDLAsUcCL90qxixPLQ/edit?usp=sharing), [Notes](pdf/lecture01.pdf)|
+|      | Wednesday | Induction                                 | [Notes](pdf/lecture02.pdf), [Takeaways](Takeaways1.md) |
+| 2    | Tuesday   | Statics                                   | [Notes](pdf/lecture03.pdf) |
+|      | Wednesday | Inversion & Structural Rules              | [Notes](pdf/lecture04.pdf), [Takeaways](Takeaways2.md) |
+| 3    | Tuesday   | Dynamics                                  | [Notes](pdf/lecture05.pdf) |
+|      | Wednesday | Type safety                               | [Notes](pdf/lecture06.pdf) [Takeaways](Takeaways3.md) |
+| 4    | Tuesday   | Functions, Effects and Calling Mechanisms | [Notes](pdf/lecture07.pdf), [Takeaways](Takeaways4.md) |
+|      | Wednesday | Hoare Logic I: Triples and rules                                 |  |
+| 5    | Tuesday   | Hoare Logic II: Soundness, invariants and weakest preconditions  | [Takeaways](TakeawaysHL.md) |
+|      | Wednesday | Separation Logic I: The heap, the separating conjunction, and the frame rule | |
 | 6    | Consolidation Week
-| 7    | Tuesday   | CBN, CBV, effects         | [Notes](pdf/lecture11.pdf), [Pt1](content/Week7.pdf), [BP](content/Week7BP.pdf), [Takeaways](Takeaways7.md) |
-|      | Wednesday | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909) |
-| 8    | Tuesday   | Ill-Typed Programs Don’t Evaluate* | [Paper](https://dl.acm.org/doi/10.1145/3632909), [Slides](content/ATPL%20-%20ill%20typing.pdf) |
-|      | Wednesday | Rusty Type Systems** | [Slides](content/rusty-slides.pdf) |
+| 7    | Tuesday   | Separation Logic II: Inductive predicates, and a proof that pays for itself | [Takeaways](TakeawaysSL.md) |
+|      | Wednesday | Symbolic Execution: Under-approximation, and the logic of bugs | [Takeaways](TakeawaysSE.md) |
+| 8    | Tuesday   | From Separation Logic to Rust: Ownership as a type system — and what it costs | [Takeaways](TakeawaysR.md) |
+|      | Wednesday | Ownership in Context* |  |
 
-The end of the course has been re-structured so that you can consolidate what you
-have learnt in the exciting setting of real research papers, presented by members
-of the [Bristol Programming Languages Research Group](https://plrg-bristol.github.io/)
-
-*Guest Speaker [Charlie Walpole](https://research-information.bris.ac.uk/en/persons/charlie-j-walpole)
-
-**Guest Speaker Tom Divers
-
-Previous lecture notes: [Modernised Algol I](pdf/lecture12.pdf), [Modernised Algol II](pdf/lecture13.pdf), and [Canonicity](pdf/lecture14.pdf).
-Reading the Algol notes and doing the [Algol Problem Sheet](pdf/sheet07.pdf) will be excellent exam prep, but you
-**will not** be examined on Algol.
+*This end of the course will allow you to consolidate what you have learnt during the course in the exciting setting of a real research paper! This will be presented by Tom Divers, PhD student of the [Bristol Programming Languages Research Group](https://plrg-bristol.github.io/)

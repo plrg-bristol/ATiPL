@@ -1,4 +1,4 @@
-# Takeaways for Week Three
+# Takeaways for Sam Week Three
 
 Technically in last week's lecture notes, but I only want you to have taken this away this week:
   * KNOW that the way we have specified the dynamics of our program is called _operational semantics_ that are executed by an _abstract machine_ (there are others, the main one being _denotational semantics_, which you won't learn in this unit, but I think it is easier as its similar to haskell )

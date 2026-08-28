@@ -1,4 +1,4 @@
-# Takeaways for Week Two
+# Takeaways for Sam Week Two
 
 The phase distinction
   * KNOW that there are two phases of a computer program's life and what they are:

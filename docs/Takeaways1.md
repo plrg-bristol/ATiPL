@@ -1,4 +1,4 @@
-# Takeaways for Week One
+# Takeaways for Sam Week One
 
 Judgements and evidence
   - KNOW: A judgement is a statement (proposition, utterance, enunciation). "claim"
