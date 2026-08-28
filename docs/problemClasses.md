@@ -40,4 +40,4 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 
 *optional
 
-For your convenience, we have also gathered the static and dynamics of [STLC](pdf/stlc.pdf) and [PCF](pdf/pcf.pdf) into these linked reference sheets, and we have gathered key theorems and lemmata [here](pdf/theorems+lemmata.pdf). Note that you will be given these reference figures and any other rules / theorems you will need in the exam. Please don't waste time memorising rules.
+For your convenience, we have also gathered the static and dynamics of the functions-and-constants fragment of the STLC into a [reference sheet](pdf/cf-stlc.pdf), and we have gathered key theorems and lemmata [here](pdf/theorems+lemmata.pdf). Note that you will be given these reference figures and any other rules / theorems you will need in the exam. Please don't waste time memorising rules.
