@@ -1,32 +1,7 @@
 # Takeaways for Sam Week Four
 
-KNOW that this week, we will expand our little lang to the simply-typed λ-calculus (STLC).
-KNOW this consists of adding sum and product types (which correspond to Either and pairs from Haskell), and exponential types (functions) to the little lang.
-
-Products
-* KNOW product types correspond to tuples
-* KNOW that binary products (pairs) allow us to write functions that return two values
-* KNOW that the nullary product (unit) allows us to write functions that return nothing
-* KNOW that the syntax for product types normally uses x and 1 (echoing the notation for the multiplicative monoid)
-* KNOW that statics can be split up into introduction and elimination rules where:
-  - introduction rules create an instance of a type
-  - elimination rules remove / project from an instance of a type
-* KNOW that syntax for products normally involves brackets for introduction and pies for projection
-* BE ABLE TO expand the statics and dynamics of our little language to include appropriate rules for products
-* BE ABLE TO write a syntactically correct and well-typed term including products, justifying its correctness with a typing derivation in the appropriate context
-* BE ABLE TO use the dynamics of products to evaluate a term including them
-* BE ABLE TO expand the definitions of substitution, inversion, and canonical forms to include products
-
-Sums
-* KNOW sum types correspond to choices between values
-* KNOW that binary sums (pairs) allow us to write programs that pattern match
-* KNOW that the empty type (void) corresponds to no choice
-* KNOW that the syntax for sum types normally uses = and 0 (echoing the notation for the additive monoid)
-* KNOW that syntax for sums normally involves inL and inR constructors for introduction, and a case statement for elimination
-* BE ABLE TO expand the statics and dynamics of our little language to include appropriate rules for sums
-* BE ABLE TO write a syntactically correct and well-typed term including sums, justifying its correctness with a typing derivation in the appropriate context
-* BE ABLE TO use the dynamics of sums to evaluate a term including them
-* BE ABLE TO expand the definitions of substitution, inversion, and canonical forms to include sums
+KNOW that this week, we will expand our little lang to the functions-and-constants fragment of the simply-typed λ-calculus (STLC).
+KNOW this consists of adding functions to the little lang.
 
 Functions - Statics
 * KNOW that the syntax for function types typically uses ->
@@ -45,8 +20,7 @@ Functions - Examples
 * BE ABLE TO write a HO function in this language, justifying its well-typed-ness with a derivation
 
 Properties
-  * KNOW the simply-typed λ-calculus (STLC) = product types + sum types + function types (+ constants)
-  * **BE ABLE TO prove type safety for the STLC**
+  * **BE ABLE TO prove type safety for the functions-and-constants fragment STLC**
 
 Call-by-name, Call-by-value, and Effects
 * KNOW that so far in the course, as specified by the substitution lemma, we have been using a call-by-name (CBN) evaluation strategy
@@ -61,6 +35,10 @@ Call-by-name, Call-by-value, and Effects
 * KNOW that the difference only becomes noticeable in the presence of **effects** (assuming you have no way of noticing number of eval steps)
 * KNOW that CBN is strongly related to lazy evaluation in purely functional languages (and Haskell uses the "call-by-need" optimised variant)
 * KNOW that CBV is what is used by almost all languages with effects (C, Java, Scala, JS, OCaml, Scheme, etc.)
+* KNOW
+  - CBN and CBV produce the same output
+  - CBN and CBV differ in eval steps
+  - CBN and CBV differ in presence of effects
 
 The call-by-value λ-calculus
 * KNOW that the call-by-value λ-calculus is a version of the STLC in which all substitutions replace a variable with a value.
@@ -71,13 +49,7 @@ The call-by-value λ-calculus
 
 Effects
 * UNDERSTAND that the difference only becomes noticeable in the presence of **effects**
-* UNDERSTAND the adjustments that need to be made to statics and dynamics to introduce a printing effect
-* BE ABLE TO introduce a printing effect to a language
-* KNOW
-  - CBN and CBV produce the same output
-  - CBN and CBV differ in eval steps
-  - CBN and CBV differ in presence of effects
-* BE ABLE TO give an example showing these differences between the evaluation strategies
+* KNOW that IO, state, failure and non-determinism are examples of effects
 
 ---
 Key:

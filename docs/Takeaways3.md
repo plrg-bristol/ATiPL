@@ -53,7 +53,7 @@ Type Safety
   * KNOW that the canonical forms lemma will be invaluable in such a proof
 
 **PROGRESS AND PRESERVATION (Type Safety) ARE THE KEY THEOREMS OF THIS UNIT!!!**
-From here onwards, we will add new features to our language, and ensure it remains well behaved by proving type safety. **Make sure you understand them and can prove them.**
+**Make sure you understand them and can prove them.**
 You will (or should) see them in PL papers that define new languages
 
 ---

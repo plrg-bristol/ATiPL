@@ -15,12 +15,6 @@ Simultaneous generation of judgements
   - KNOW: judgements can be mutually defined using rules
   - BE ABLE TO: define rules that mutually define judgements and use them to assemble derivations
 
-Derivable and admissible rules
-  - KNOW: A rule is admissible if whenever we have a derivation of the premises, then we know we can construct a derivation of the conclusion.
-  - BE ABLE TO: prove that a rule is admissible
-  - KNOW: A rule is derivable if we can use a derivation of its premise as a building block in deriving its conclusion
-  - BE ABLE TO: prove that a rule is admissible
-
 Induction
   - UNDERSTAND: the principle of induction
   - BE ABLE TO: state the associated induction principle given a set of rules
@@ -30,7 +24,6 @@ Simultaneous Induction
   - KNOW: induction can also be used for mutually defined judgements
   - BE ABLE TO: state the associated induction principle given a set of mutually defined rules
   - BE ABLE TO: prove something by simultaneous induction
-
 
 ---
 Key:
