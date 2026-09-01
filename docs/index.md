@@ -27,7 +27,7 @@ group website](https://plrg-bristol.github.io/).
 
 ### Lecturers
 
-| [![Cristina David](Images/Staff/Cristina.jpg#face)](https://https://cristina-david.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |
+| [![Cristina David](Images/Staff/Cristina.jpg#face)](https://cristina-david.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |
 | :-------------------------------:|:------------------------:|
 | Cristina David                        | Sam Frohlich             |
 
