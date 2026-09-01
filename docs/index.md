@@ -27,12 +27,12 @@ group website](https://plrg-bristol.github.io/).
 
 ### Lecturers
 
-| [![Cristina David](Images/Staff/no_img.png#face)](https://mengwangoxf.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |
+| [![Cristina David](Images/Staff/Cristina.jpg#face)](https://https://cristina-david.github.io/) | [![Sam Frohlich](Images/Staff/Sam.jpg#face)](https://samfrohlich.github.io/) |
 | :-------------------------------:|:------------------------:|
 | Cristina David                        | Sam Frohlich             |
 
 ### TAs
 
-| ![Alex Wood](Images/Staff/no_img.png#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) |
+| ![Alex Wood](Images/Staff/Alex.jpeg#face) | ![Tom Divers](Images/Staff/Tom.jpg#face) |
 | :------------------------:   | :-------------------------------------------:|
 | Alex Wood                   | Tom Divers                                 |
