@@ -10,7 +10,7 @@ Programming Languages_](https://www.cs.cmu.edu/~rwh/pfpl/) (Cambridge University
 Press, 2nd edition, 2016). An electronic copy of the book may be obtained
 through the [University of Bristol library](https://www.bristol.ac.uk/library/).
 
-TODO spiel about second half
+The second half of the unit will explore Hoare Logic, Separation Logic, Symbolic Execution and Rust.
 
 For more information on PL research at Bristol please visit the [Programming Languages
 group website](https://plrg-bristol.github.io/).

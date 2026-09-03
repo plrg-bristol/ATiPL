@@ -33,10 +33,10 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 |   2   | [Problem Sheet](pdf/sheet01.pdf)   |
 |   3   | [Problem Sheet](pdf/sheet02.pdf)   |
 |   4   | [Problem Sheet](pdf/sheet03.pdf)   |
-|   5   | [Problem Sheet](pdf/sheet04.pdf), TODO C, add sheet(s) |
+|   5   | [Problem Sheet](pdf/sheet04.pdf),  |
 |   6   | Reading week - no sheet due   |
-|   7   | TODO C, add sheet(s)   |
-|   8   | TODO C, add sheet(s)   |
+|   7   |    |
+|   8   |    |
 |  11   | (Read the papers introduced by our guest speaker)*   |
 
 *optional
