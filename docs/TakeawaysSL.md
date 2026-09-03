@@ -1,6 +1,6 @@
 # Takeaways for Separation Logic
 
-TODO Cristina
+COMING SOON
 
 ---
 Key:
