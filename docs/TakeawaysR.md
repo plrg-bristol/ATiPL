@@ -1,6 +1,6 @@
 # Takeaways for "From Separation Logic to Rust"
 
-TODO Cristina
+COMING SOON
 
 ---
 Key:

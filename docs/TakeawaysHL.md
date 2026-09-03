@@ -1,6 +1,6 @@
 # Takeaways for Hoare Logic
 
-TODO Cristina
+COMING SOON
 
 ---
 Key:
