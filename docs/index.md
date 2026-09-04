@@ -17,11 +17,11 @@ group website](https://plrg-bristol.github.io/).
 
 ## Schedule
 
-| What          | When           | Where                                     |
-|---------------|----------------|-------------------------------------------|
-| Lecture       | TBC            | TBC                                       |
-| Lecture       | TBC            | TBC                                       |
-| Problem Class | TBC            | TBC                                       |
+| What          | When             | Where                                     |
+|---------------|------------------|-------------------------------------------|
+| Lecture       | Mondays 9-10am   | QUEENS BLDG 1.69                          |
+| Lecture       | Tuesdays 11-noon | ADA LOVELACE BLDG SM3                     |
+| Problem Class | Fridays 11-noon  | QUEENS BLDG 1.69                          |
 
 ## Staff
 

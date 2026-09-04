@@ -7,9 +7,9 @@ For each problem class, there will be an associated **problem sheet**. To pass t
 In the classes, you will also have the opportunity to ask further questions.
 
 
-**WHERE:** TBC
+**WHERE:** QUEENS BLDG 1.69
 
-**WHEN:** TBC (including week one, where there will be no sheet due, but this will be a chance to meet the TAs and take a look at / get help on the first sheet)
+**WHEN:** Fridays 11-noon (including week one, where there will be no sheet due, but this will be a chance to meet the TAs and take a look at / get help on the first sheet)
 
 **WHO:** Alex and Tom will be running the problem classes and marking your work.
 
