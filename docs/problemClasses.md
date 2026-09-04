@@ -37,7 +37,7 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 |   6   | Reading week - no sheet due   |
 |   7   |    |
 |   8   |    |
-|  11   | (Read the papers introduced by our guest speaker)*   |
+|  11   | (Read the paper introduced by our guest speaker)*   |
 
 *optional
 
