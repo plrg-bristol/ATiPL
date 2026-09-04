@@ -13,7 +13,7 @@ In the classes, you will also have the opportunity to ask further questions.
 
 **WHO:** Alex and Tom will be running the problem classes and marking your work.
 
-**HOW:** You will have the opportunity to get the answers to questions marked by an asterisk (*) marked by a TA. Please submit your answers via email by **5pm on the TBC preceding the problem class.**
+**HOW:** You will have the opportunity to get the answers to questions marked by an asterisk (*) marked by a TA. Please submit your answers via email by **5pm on the Wed preceding the problem class.**
 Your email should:
 1. Be sent to _both_ TAs, Sam and Cristina. This is just to allow us to fairly share the marking workload between the TAs (and have the fail-safe of the lecturers in case one or both of the TAs are ill). Our emails are:
   * Sam - samantha.frohlich@bristol.ac.uk
