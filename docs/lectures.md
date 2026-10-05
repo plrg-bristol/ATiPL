@@ -6,7 +6,7 @@
 |      | Tuesday  | Induction                                 | [Notes](pdf/lecture02.pdf), [Lecture2](content/Week1-2.pdf), [Week1BP](content/Week1BP.pdf), [Takeaways](Takeaways1.md) |
 | 2    | Monday   | Statics                                   | [Notes](pdf/lecture03.pdf), [Lecture3](content/Week2-1.pdf) |
 |      | Tuesday  | Inversion & Structural Rules              | [Notes](pdf/lecture04.pdf), [Lecture4](content/Week2-2.pdf), [Week2BP](content/Week2BP.pdf), [Takeaways](Takeaways2.md) |
-| 3    | Monday   | Dynamics                                  | [Notes](pdf/lecture05.pdf) |
+| 3    | Monday   | Dynamics                                  | [Notes](pdf/lecture05.pdf), [Lecture5](content/Week3-1.pdf) |
 |      | Tuesday  | Type safety                               | [Notes](pdf/lecture06.pdf), [Takeaways](Takeaways3.md) |
 | 4    | Monday   | Functions, Effects and Calling Mechanisms | [Notes](pdf/lecture07.pdf), [Takeaways](Takeaways4.md) |
 |      | Tuesday  | Hoare Logic I: Triples and rules                                 |  |
