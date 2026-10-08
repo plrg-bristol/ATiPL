@@ -31,7 +31,7 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 |-------|-------|
 |   1   | Only week one - no sheet due |
 |   2   | [Problem Sheet](pdf/sheet01.pdf), [Answers](content/sheet01-answers.pdf), [SamSolutions](content/SamSols1.pdf)   |
-|   3   | [Problem Sheet](pdf/sheet02.pdf)   |
+|   3   | [Problem Sheet](pdf/sheet02.pdf), [Answers](content/sheet02-answers.pdf)   |
 |   4   | [Problem Sheet](pdf/sheet03.pdf)   |
 |   5   | [Problem Sheet](pdf/sheet04.pdf), [Problem Sheet for Hoare Logic I](pdf/sheet08.pdf) |
 |   6   | Reading week - no sheet due   |
