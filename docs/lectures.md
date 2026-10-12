@@ -10,7 +10,7 @@
 |      | Tuesday  | Type safety                               | [Notes](pdf/lecture06.pdf), [Lecture6](content/Week3-2.pdf), [Week3BP](content/Week3BP.pdf), [Takeaways](Takeaways3.md) |
 | 4    | Monday   | Functions, Effects and Calling Mechanisms | [Notes](pdf/lecture07.pdf), [Lecture7](content/Week4.pdf), [Week4BP](content/Week4BP.pdf), [Takeaways](Takeaways4.md) |
 |      | Tuesday  | Hoare Logic I: Triples and rules                                 | [Slides](pdf/lecture08.pdf) |
-| 5    | Monday   | Hoare Logic II: Soundness, invariants and weakest preconditions  | [Slides](pdf/lecture09.pdf), [Takeaways](TakeawaysHL.md) |
+| 5    | Monday   | Hoare Logic II: Soundness, invariants and weakest preconditions  | [Lecture8](pdf/lecture09.pdf), [Takeaways](TakeawaysHL.md) |
 |      | Tuesday  | Separation Logic I: The heap, the separating conjunction, and the frame rule | |
 | 6    | Consolidation Week
 | 7    | Monday   | Separation Logic II: Inductive predicates, and a proof that pays for itself | [Takeaways](TakeawaysSL.md) |
