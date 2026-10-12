@@ -7,8 +7,8 @@
 | 2    | Monday   | Statics                                   | [Notes](pdf/lecture03.pdf), [Lecture3](content/Week2-1.pdf) |
 |      | Tuesday  | Inversion & Structural Rules              | [Notes](pdf/lecture04.pdf), [Lecture4](content/Week2-2.pdf), [Week2BP](content/Week2BP.pdf), [Takeaways](Takeaways2.md) |
 | 3    | Monday   | Dynamics                                  | [Notes](pdf/lecture05.pdf), [Lecture5](content/Week3-1.pdf) |
-|      | Tuesday  | Type safety                               | [Notes](pdf/lecture06.pdf), [Takeaways](Takeaways3.md) |
-| 4    | Monday   | Functions, Effects and Calling Mechanisms | [Notes](pdf/lecture07.pdf), [Takeaways](Takeaways4.md) |
+|      | Tuesday  | Type safety                               | [Notes](pdf/lecture06.pdf), [Lecture6](content/Week3-2.pdf), [Week3BP](content/Week3BP.pdf), [Takeaways](Takeaways3.md) |
+| 4    | Monday   | Functions, Effects and Calling Mechanisms | [Notes](pdf/lecture07.pdf), [Lecture7](content/Week4.pdf), [Week4BP](content/Week4BP.pdf), [Takeaways](Takeaways4.md) |
 |      | Tuesday  | Hoare Logic I: Triples and rules                                 | [Slides](pdf/lecture08.pdf) |
 | 5    | Monday   | Hoare Logic II: Soundness, invariants and weakest preconditions  | [Slides](pdf/lecture09.pdf), [Takeaways](TakeawaysHL.md) |
 |      | Tuesday  | Separation Logic I: The heap, the separating conjunction, and the frame rule | |
