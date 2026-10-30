@@ -13,7 +13,7 @@
 | 5    | Monday   | Hoare Logic II: Invariants and weakest preconditions  | [Lecture9](pdf/lecture09.pdf), [Takeaways](TakeawaysHL.md) |
 |      | Tuesday  | Separation Logic I: The heap, the separating conjunction, and the frame rule | [Lecture10](pdf/lecture10.pdf) |
 | 6    | Consolidation Week
-| 7    | Monday   | Separation Logic II: Inductive predicates, and a proof that pays for itself | [Takeaways](TakeawaysSL.md) |
+| 7    | Monday   | Separation Logic II: Inductive predicates | [Lecture11](pdf/lecture11.pdf), [Takeaways](TakeawaysSL.md) |
 |      | Tuesday  | Symbolic Execution: Under-approximation, and the logic of bugs | [Takeaways](TakeawaysSE.md) |
 | 8    | Monday   | From Separation Logic to Rust: Ownership as a type system — and what it costs | [Takeaways](TakeawaysR.md) |
 |      | Tuesday  | Ownership in Context* |  |
