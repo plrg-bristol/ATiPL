@@ -71,7 +71,7 @@ Weakest preconditions
 Verification conditions
 * BE ABLE TO prove a program with a loop (similar to summing 0 to n − 1) by coming up with the loop invariant, generating the VCs and proving them (when they are very simple)
 
-**THE INVARIANT IS THE ONE CREATIVE STEP OF VERIFICATIONION.**
+**THE INVARIANT IS THE ONE CREATIVE STEP OF VERIFICATION.**
 
 ---
 Key:
