@@ -14,7 +14,7 @@
 |      | Tuesday  | Separation Logic I: The heap, the separating conjunction, and the frame rule | [Lecture10](pdf/lecture10.pdf) |
 | 6    | Consolidation Week
 | 7    | Monday   | Separation Logic II: Inductive predicates | [Lecture11](pdf/lecture11.pdf), [Takeaways](TakeawaysSL.md) |
-|      | Tuesday  | Symbolic Execution: Under-approximation, and the logic of bugs | [Takeaways](TakeawaysSE.md) |
+|      | Tuesday  | Symbolic Execution: Finding bugs | [Lecture12](pdf/lecture12.pdf), [Takeaways](TakeawaysSE.md) |
 | 8    | Monday   | From Separation Logic to Rust: Ownership as a type system — and what it costs | [Takeaways](TakeawaysR.md) |
 |      | Tuesday  | Ownership in Context* |  |
 
