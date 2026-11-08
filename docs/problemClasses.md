@@ -36,7 +36,7 @@ The TAs will then ensure that your work is marked and emailed back to you by 5pm
 |   5   | [Problem Sheet](pdf/sheet04.pdf), [Answers](content/sheet04-answers.pdf), [SamSolutions](content/SamSols4.pdf), [Problem Sheet for Hoare Logic I](pdf/sheet08.pdf), [Hoare logic solutions](content/sheet08-answers.pdf) |
 |   6   | Reading week - no sheet due   |
 |   7   |  [Hoare logic II](pdf/sheet09.pdf), [Hoare logic II solutions](content/sheet09-answers.pdf), [Separation logic](pdf/sheet_sl.pdf), [Separation logic solutions](content/sheet_sl-answers.pdf) |
-|   8   |    |
+|   8   |   [Hoare logic vs. symbolic execution](pdf/sheet-se.pdf) |
 |  11   | (Read the paper introduced by our guest speaker)*   |
 
 *optional
